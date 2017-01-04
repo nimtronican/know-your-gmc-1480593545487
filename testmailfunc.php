@@ -1,6 +1,10 @@
 <?php
-
+if(mail('nimalakanth@in.ibm.com', 'Test email', 'Test email with standard mail() function')) {
+  echo 'Mail sent';
+ }
+ else echo 'Mail sending failed';
 //if(isset($_POST['req']) && $_POST['req']=="MAILSEND"){
+/*
 	require './mailer/PHPMailerAutoload.php';
 	
 	$mail = new PHPMailer;
@@ -45,5 +49,5 @@
 	}
 	echo json_encode($data);
 //}
-
+*/
 ?>
