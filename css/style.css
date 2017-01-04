@@ -1,0 +1,313 @@
+@charset "utf-8";
+/* CSS Document */
+a.discipline01, a.discipline02 {
+	color: #fafc79;
+}
+a.discipline01:visited, a.discipline02:visited {
+	color: #fafc79;
+}
+a.discipline01:hover, a.discipline02:hover {
+	color: #ffcc00;
+}
+#ibm-leadspace-head {
+	background: #4aa3ec url(../images/hero_bg.png) no-repeat center right;
+	border: none;
+}
+#discipline01 {
+	background: #46a346 url(../images/mdi.png) no-repeat center right;
+	min-height: 300px;
+}
+#discipline02 {
+	background: #bfc1f0 url(../images/portfolio.png) no-repeat center left;
+	min-height: 300px;
+}
+#discipline03 {
+	background: #74e6ff url(../images/performance.png) no-repeat center right;
+	min-height: 300px;
+}
+#discipline04 {
+	background: #b8d25e url(../images/marketing_analytics.png) no-repeat center left;
+	min-height: 300px;
+}
+#discipline05 {
+	background: #00acc1 url(../images/brandandcomms.png) no-repeat center right;
+	min-height: 300px;
+}
+#visitGMC {
+	background: #d0c52d;
+}
+.ibm-contact-widget.ibm-contact--bg-blue-50, .ibm-contact-widget-btn {
+	background-color: #fe4d00!important;
+	border-color: #fe4d00!important;
+}
+/* Discipline3 - Performance   */
+#ibm-leadspace-head03 {
+	background: #74e6ff url(../images/performance.png) no-repeat center right;
+	border: none;
+}
+#discipline03_Section01 {
+	background: #6e4fd4;
+}
+#discipline03_Section02 {
+	background: #29707b;
+}
+#discipline03_Section03 {
+	background: #4ccde1;
+}
+
+#discipline03_blog{
+	background: #74e6ff;
+	}
+.ibm-card{background:#fffdef;border:1px solid #eee;}
+#discipline03_Blog{background:#c4421e;}
+
+.ibm-cards{background:#00a79b;border:1px solid #eee;}
+#discipline03_Blog{background:#c4421e; color:#fff;}
+
+
+@media only screen and (min-width:0) and (max-width:579px) {
+#ibm-leadspace-head, #discipline01, #discipline02, #discipline03, #discipline04, #discipline05, #ibm-leadspace-head03 {
+	background-image: none;
+}
+}
+
+
+#discipline01_Section01 {
+	background: #008abf;
+	
+}
+#discipline01_Section02 {
+	background: #fff;
+}
+#discipline01_Section03 {
+	background: #82D1F5;
+}
+
+/* Discipline1 - MDI   */
+#ibm-leadspace-head01 {
+	background: #46a346 url(../images/mdi.png) no-repeat center right;
+	border: none;
+}
+
+#discipline01_Section02 {
+	background: #2dbd2d;
+}
+#discipline01_Section03 {
+	background: #5ad15a;
+}
+#discipline01_blog{
+	background: #46a346 ;
+	}
+
+/* Discipline2 - Portfolio*/
+#ibm-leadspace-head02 {
+	background: #bfc1f0 url(../images/portfolio.png) no-repeat center right;
+	border: none;
+}
+
+#discipline02_Section01 {
+	background: #9599DD;
+	
+}
+#discipline02_Section02 {
+	background: #acb1ff;
+	
+}
+
+#discipline02_Section03 {
+	background: #6C70C0;
+}
+#discipline02_blgo{
+	background: #bfc1f0 ;
+	}
+/* Discipline4 MOA */
+#ibm-leadspace-head04 {
+	background: #b8d25e url(../images/marketing_analytics.png) no-repeat center right;
+	border: none;
+}
+
+#discipline04_Section01 {
+	background: #96bd10;
+	
+}
+#discipline04_Section02 {
+	background: #fff;
+}
+#discipline04_Section03 {
+	background: #ccea62;
+}
+#discipline04_blog{
+	background: #b8d25e ;
+	}
+
+/* Discipline5 - BSC */
+
+#ibm-leadspace-head05 {
+	background: #00acc1 url(../images/brandandcomms.png) no-repeat center right;
+	border: none;
+}
+
+#discipline05_Section01  {
+	background: #008abf;
+	
+}
+#discipline05_Section02 {
+	background: #b2e6ec;
+}
+#discipline05_Section03 {
+	background: #14c4d9;
+}
+#discipline05_blog{
+	background: #00acc1 ;
+	}
+.keyproject{padding:20px;background:#014164;color:#ffffff;}	
+
+.visit{padding:20px;background:#ffa800;color:#ffffff;}	
+
+@media only screen and (min-width:640px) and (max-width:1024px) {
+#ibm-leadspace-head, #discipline01, #discipline02, #discipline03, #discipline04, #discipline05, #ibm-leadspace-head03 {
+	background-size: 40%;
+}
+}
+.keyprojectbsc1 {
+	background: #00acc1 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectbsc2 {
+	background:#008abf no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectbsc3 {
+	background:#14c4d9 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectbsc4 {
+	background:#25dff5 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	
+	.keyprojectmdi1 {
+	background:#46a346 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectmdi2 {
+	background:#57c257 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectmdi3 {
+	background:#2dbd2d no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectmdi4 {
+	background:#2edd2e no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectmdi5 {
+	background:#5ad15a no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectmoa1 {
+	background:#96bd10 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectmoa2 {
+	background:#526513 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectmoa3 {
+	background:#7a9a0d no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectpcm1 {
+	background:#333abb no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectpcm2 {
+	background:#0080ff no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectpcm3 {
+	background:#001b36 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectpcm4 {
+	background:#004d99 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectpcm5 {
+	background:#003366 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	
+	.keyprojectppm1 {
+	background:#74e6ff no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectppm2 {
+	background:#29707b no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	.keyprojectppm3 {
+	background:#30a9c4 no-repeat center right;
+	border: none;
+	color:#fff;}
+	
+	#project_ownerimg1, project_ownerimg2{border:1px solid #D9D6D6;}
+	
+	/*FORM FIELDS in OVERLAY*/
+	label{
+		margin-top:10px;
+	}
+	input[type="text"],input[type="email"],select,textarea{
+		width:95%;
+		padding:5px;
+		font-size:16px;
+		margin-top:10px;
+		margin-bottom:10px;
+		border:0px;
+		border: 1px solid #474747;
+	}
+	textarea{
+		height:100px;
+	}
+		
+	.frmsubmitbtn{
+		font-size:16px;
+		padding:10px;
+		text-align:center;
+		background:#FF9700;
+		border:none;
+		border:1px solid #B34F00;
+		border-radius:3px;
+		cursor:pointer;
+		margin-top:20px;
+	}
+	.frmsubmitbtn:hover{
+		background:#00C0F2;
+		border:1px solid #0091BD;
+		border-radius:5px;
+	}
+	
+	#project_ownerimg2,#project_ownerimg1{
+		cursor:pointer;
+	}
+	
