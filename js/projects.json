@@ -1,0 +1,687 @@
+data = {
+
+   "10001": {
+
+      "project_discipline": "Performance & Programmatic marketing",
+
+      "project_name": "Optimizing the Sales Performance Management Campaign",
+
+      "project_overview": "TThe SPM team was tasked with tackling a key Marketing challenge &#8211; generating quality leads for the LDRs and handing off those leads to the sales team for conversion&#46; The responses that were being generated at the top of the funnel were not resulting in lead conversions and after an assessment, the team determined that the quality of responses from Paid Search and Content syndication were not up to the mark&#46; The team optimized the campaign by using a data driven approach, that was both, outcome focused and buyer centric and surpassed their marketing targets for the year before the end of Q3&#46;",
+
+      "project_challenge": "<li>Paid search targeted a broad set of keywords &#8211; generated millions of impressions, but minimal responses</li>\n<li>Recommended content syndication vendors were generic and targeted broad job titles </li>\n<li>Gated content promoted through social channels  &#8211; low registrations</li>\n<li>Content Syndication vendors promoted the wrong offers at the learn stage, mainly whitepapers vs analyst reports and case studies</li>\n<li>Limitations to nurture leads due to Unica 7&#46;5 capabilities</li>\n<li>The primary try stage offer was a series of webinars  &#8211; no trial or demo</li>\n<li>Leads were not nurtured before being sent to LDRs</li>\n<li>No dedicated LDRs specialized in SPM solution across geos</li>\n",
+
+      "project_solution": "Applying NWoM to the buyer journey and using data to steer the paid media, content syndication, and targeting strategies&#46;  Here are some key points about the strategy:\n<li>Modified the media buy based on performance data and ROI analysis using MPW, Sunrise, CDPM, and LDR feedback</li>\n<li>Retargeted media buys to focus on specific buyer cohorts</li>\n<li>Keyword buys were reduced from 13k to 800 targeted keywords based on the performance of individual keywords, ads, and assets </li> \n<li>The web page was search engine optimized with a higher percentage of industry specific keywords</li>\n<li>Drastically reduced the number of webpages and the majority of the traffic was driven to the Centre of Gravity page for SPM</li>\n<li>Adjusted content strategy to keep most content ungated</li>\n<li>Nurtured leads through Unica 9&#46;1 before sending them to the LDR</li>\n<li>Adopting the Agile methodology of working in sprints and daily stand up calls</li>",
+
+      "project_results": "SPM exceeded its FY target of $2&#46;09M Win Revenue by achieving $2&#46;9M Marketing Created Revenue Win Revenue&#46; The team was also awarded the Growth and Transformation award for its 1H&#39;16 performance&#46;",
+
+      "project_owner_1": "Santosh U Kumar",
+
+      "project_ownerphoto_1": "santosh.png",
+
+      "project_bio_1": "Works as a campaign manager when he is not juggling with baby feeding bottles, punching people in the boxing ring, riding motorcycles and playing chess&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=03600D744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10002": {
+
+      "project_discipline": "Performance & Programmatic marketing",
+
+      "project_name": "Digital Journey Assessment and Optimization",
+
+      "project_overview": "Improving the web experience will help drive market leadership growth for I/SA Marketing Cloud in an effort to exceed the 2016 target of US$1&#46;48M&#46; A thorough analysis of the digital journey was undertaken with diagnosis of every step from discovery to purchase&#46; This led to not only a higher and relevant traffic but also increased engagement that accelerated conversions&#46;",
+
+      "project_challenge": "<li>Disconnected and inconsistent IBM Marketing Cloud journey for clients both on and off the IBM domain with minimal drive to Marketplace for conversion&#46; </li>\n<li>Multiple Discover Stage pages &#8211; both on and off domain contribute to a healthy funnel at the discover and early learn stage&#46;</li>\n<li>Disconnected journey downstream needs to be corrected and optimized to help achieve business targets for IBM Marketing Cloud in I/SA&#46;</li>\n<li>    Assets outdated, not localized, inappropriately assigned to the buyer stage&#46; India pages outperformed by competition with no visibility on search results for relevant keywords&#46; Site Search and MarketPlace Search results need optimization</li>",
+
+      "project_solution": "<li>Client Digital Journey Correction &#8211; 7 page tie&#8211;ins identified, 3 critical journey breaks fixed &#8211; these together will help drive engagement and conversions&#46;</li>\n<li>Engaging Assets &#8211; Complete the assets assessment and selection process with the local team leverage the try/buy assets and ensure placement along the entire journey as applicable&#46;</li>\n<li>Content Discoverability &#8211; KIS led SEO approach to address different buyer stages&#46; Collaboration with the Site Search Squad to optimize&#46;</li>",
+
+      "project_results": "<li>3&#8211;fold increase in organic search visits to the PMP page (in late May Silverpop Engage and Silverpop Engage SMS PMPs were redirected to the IBM Marketing Cloud PMP)&#46;</li>\n<li>The broken journey was fixed and it&#39; now a seamless journey to the PDP demonstration (additionally, a request was raised to un&#8211;black list the Journey Mapping PDP and this page went live in the 3rd week of August)&#46;</li>\n<li>Response flow was streamlined for the Journey Designer Trial resulting in a 50% decline in non&#8211;actionable responses&#46;</li>\n<li>Paid Search Campaign Optimization in progress to help improve engagement rates on the PDP&#46;</li>\n<li>Internal linking from PMP to Marketplace helped drive an upward trend in Internal referral visits to MP&#46;</li>\n<li>Live Chat routing corrected for the product marketing page, the responses now route to an available LDR&#46;</li>",
+
+      "project_owner_1": "Vikrant Bhargava",
+
+      "project_ownerphoto_1": "vikrant.png",
+
+      "project_bio_1": "Digital & Social Evangelist&#44;loves to cook&#44;enjoys travelling and Photography#46; Avid basketball & squash player and aspiring mixologist#46\n",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=099382744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10003": {
+
+      "project_discipline": "Performance & Programmatic marketing",
+
+      "project_name": "Campaign Targeting Optimization",
+
+      "project_overview": "Marketing Operations and Analytics team worked with the NA Performance Marketing team on a pilot to progress existing large deals to close 2015 Analytics BU open pipe&#46; The objective of the pilot was to optimize targeting and touch the accounts that are yet to &#39;buy&#39; from IBM&#46;  Prospect Targeting team used existing &#39;Propensity to buy&#39; model and identified top 100 companies who are most likely to &#39;buy&#39; a specific &#39;analytics&#39; capability from IBM&#46; Performance marketing team used the data provided by Prospect Targeting team to target top 100 companies /accounts through advertisements on Linkedin&#46;  Performance marketing team deployed &#39;advocacy&#39; messaging to progress select 100 accounts and close open pipe&#46;",
+
+      "project_challenge": "<li>Progress 2015 large deals and close &#39;Analytics BU&#39; open pipe of ` $1&#46;7M as on week of Q2W7 2015</li>\n<li>Find a way to touch existing leads in the database by working with field sales and helping select account progress to &#39;buy&#39; stage&#46; </li>\n<li>Use advocacy for demand generation and to progress select accounts&#46;</li>",
+
+      "project_solution": "Marketing Operations and Analytics team \n<li>used propensity to buy models to identify top 100 companies who are most likely to &#39;buy&#39; from IBM&#46; </li>\n<li>used the data to help performance marketing team optimize its targeting strategy&#46;</li>\nPerformance marketing team\n<li>used the data from Prospect Targeting team to target top 100 accounts&#46; </li> \n<li>using client advocacy messaging to progress select 100 accounts</li>\n<li>work with field sales to ensure they are brought to speed on the touch planned&#46;</li>\n<li>Deploy social media tactics to touch select accounts</li>",
+
+      "project_results": "<li>Developed reusable client advocacy messaging by working with client reference teams&#46;</li>\n<li>Progressed one specific account to &#39; buy&#39; stage and created 2 opportunities worth $10&#46;77M</li>",
+
+      "project_owner_1": "Mahanth Chavutagunta",
+
+      "project_ownerphoto_1": "mahanth.png",
+
+      "project_bio_1": "Marketing nerd&#46; Problem solver&#46; Engineer&#46; Couch politician&#46; Dramatist&#46; Book lover&#46; Proud Indian for life and a feminist somewhere in between&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=03547P744",
+
+      "project_owner_2": "Praveen Hullur",
+
+      "project_ownerphoto_2": "praveen.png",
+
+      "project_bio_2": "11+ years of experience in Analytics meaning I eat, sleep and wear Analytics day in and out&#46; Cricket and Badminton Lover&#46; Cherish time with Family and Friends&#46;\n",
+
+      "project_contact_2": " http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=03726E744",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10004": {
+
+      "project_discipline": "MD&I",
+
+      "project_name": "Competitive Discussion at the Strategy Team Meeting",
+
+      "project_overview": "Since 2015, the MD&I (add) Competitive Intelligence team has been invited to conduct a competitive discussion at the Strategy team meeting attended by Ginni and the Strategy team members over covering select competitors and topics&#46; In 2016  the topic was combined &#8211; Technology and Competitive threats on 4 specific competitors &#8211; Microsoft, Amazon Web Services, Google and GE&#46; We covered the technological advancements they are making, their market moves, strategic partnerships to assess threats to IBM&#46; There was discussion around what are the right set of actions IBM should take by our senior leadership team&#46; The competitive intelligence team presented and Ken Keverian, SVP, Corporate Strategy moderated and lead this meeting&#46;",
+
+      "project_challenge": "Make IBM senior leadership aware about the competitive landscape by sharing best practices and moves from key competitors and to help make the right decisions in light of the market dynamics and our strategic imperatives",
+
+      "project_solution": "Identified several actions around Industry Cloud, Bluemix, Developers&#46; Hybrid Cloud to competitively differentiate IBM going forward",
+
+      "project_results": "The competitive discussion at the Strategy Team meeting was able to drive a detailed discussion and outcomes and several initiatives were taken in the way IBM is structured to which solutions we should lead with and how IBM should differentiate themselves&#46; This meeting was also a input to the SVP offsite in April that further detailed the initial actions outlined",
+
+      "project_owner_1": "Pearl  George",
+
+      "project_ownerphoto_1": "pearl.png",
+
+      "project_bio_1": "Self&#8211;proclaimed Food Critic, expert at snooping (competition of course), Shopaholic dreaming to be a life coach someday&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=889394744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10005": {
+
+      "project_discipline": "MD&I",
+
+      "project_name": "Cognitive Market POV Labor&#8211;based Modeling Analysis",
+
+      "project_overview": "Cognitive technologies are expected to have a significant impact on labor activities&#46; This thinking led the MD&I team to develop a model that looked at the level of impact by labor occupation&#46; The model focuses on primary topics including market opportunity and trends, competitor highlights, new buyer roles and geo&#8211;level intelligence&#46; Enhanced coverage for 2016 includes an industry&#8211;specific view of five significant transformative IT trends: Cognitive, Digitally Disruptive Services, Internet of Things, Industry Cloud Platforms, and Security&#46;",
+
+      "project_challenge": "Obtaining labor data by occupation for every industry and geography and application of suitable forecasting methods&#46;",
+
+      "project_solution": "Used Bass Diffusion model, Oxford study of Probability of Job Computerization and US Labor Department data to determine the impact on labor spend over a period of time&#46; Labor spend impacts were aggregated by industry and process to provide summary&#8211;level views&#46; Adoption (and resultant market sizing by year) was modeled based on observed patterns and diffusion models of prior innovations&#46;",
+
+      "project_results": "Forecast of labor spend impacted by Cognitive Tech that can help make crucial decisions like which Watson solution development should be prioritized&#46;",
+
+      "project_owner_1": "Prasann Srivastava",
+
+      "project_ownerphoto_1": "prasann.png",
+
+      "project_bio_1": "Storymaker&#46;Gamer&#46;Reader&#46;Socializer&#46;Foodie&#46;Cinephile&#46; Musicphile&#46;Travelbuff&#46;Bangalorean&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=02033N744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10006": {
+
+      "project_discipline": "MD&I",
+
+      "project_name": "Next Generation Technology Trends POV",
+
+      "project_overview": "The MD&I Social Insights team developed a framework to build POVs using social media data and leveraged the same to analyze upcoming technology trends&#46; This methodology is replicable for other topics&#46;",
+
+      "project_challenge": "The technology landscape is rapidly evolving and hence emerging trends need to be spotted as and when they arise to capitalize on potential opportunities&#46; Uncovering these trends through traditional methods like primary and secondary research is cost intensive and requires significant amount of time which hinders quick decision making&#46;",
+
+      "project_solution": "The team identified social data as an alternate source of research that would help identify shifts in the market through unbiased views of thought leaders and tech experts&#46; This approach requires less funds and provides a faster turnaround of insights at the speed of business that can expedite innovation and new product development&#46;",
+
+      "project_results": "This work was presented to Bijan Davari, Vice President, Next Generation Computing Systems and Technology, IBM Research and his team&#46; These insights would be used in a workshop involving IBM Fellows, Distinguished Engineers, and help prioritize which Nextgen concepts they will develop&#46; It would also be used in a workshop with the Marketing team to figure out how to start the marketing effort around the prioritized list of ideas&#46;",
+
+      "project_owner_1": "Shivashankar M Paragond",
+
+      "project_ownerphoto_1": "shivashankar.png",
+
+      "project_bio_1": "Social media expert, inquisitive, challenging status quo, passionate, research and consulting, problem solver&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=04856A744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10007": {
+
+      "project_discipline": "MD&I",
+
+      "project_name": " Industry Insights PoV",
+
+      "project_overview": "MD&I Industry Insights Series is a comprehensive guide to help understand industries at a granular level&#46; It focuses on key topics including market opportunity and trends, competitor highlights, new buyer roles and geo&#8211;level intelligence&#46; Enhanced coverage for 2016 includes, an industry&#8211;specific view of five significant transformative IT trends: Cognitive, Digitally Disruptive Services, Internet of Things, Industry Cloud Platforms, and Security&#46; Industry Insights integrates internal MD&I expertise and data with external insights to provide an in&#8211;depth, concise, industry specific intelligence asset used internally within IBM to help drive sector/industry revenue&#46; ",
+
+      "project_challenge": "With IBM&#39;s GTM strategy geared towards Industry, the challenge is to identify opportunity areas and address pain points within their industry, enhance customer relationships and build the right solutions&#46; It is imperative to understand key insights about industry intersections such as Industry performance by growth categories (cognitive, IOT and CAMSS)&#46;",
+
+      "project_solution": "MD&I developed a comprehensive one&#8211;stop industry POV guide for the stakeholders to consume all industry related insights&#46; The series covers insights across 5 industry sectors, 18 industries and key transformational trends that help:\n<li>Discover opportunity growth forecast for your industry and how it compares to other industries</li>\n<li>Find key IT trends, such as cognitive and cloud, that are affecting growth in a particular industry</li>\n<li>Understand industry&#39;s competitor ecosystem with a deep dive into key players</li>",
+
+      "project_results": "The project received more than 13,000 bluemine views within first five months of release&#46; The Industry Insights Series helps Industry GM&#39;s accelerate growth through organic and inorganic investments, expand strategic partnerships and customer relationships, drive Industry Strategy planning discussions, Seller Enablement, Pre&#8211;sales/ RFP and Industry Education kits",
+
+      "project_owner_1": "Krushna Subudhi",
+
+      "project_ownerphoto_1": "krushna.png",
+
+      "project_bio_1": "Inquisitive and restless, autodidact in History and politics, book addict, movie buff, Loves data and humor&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=00908R744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10008": {
+
+      "project_discipline": "MD&I",
+
+      "project_name": "askbluemine",
+
+      "project_overview": "askbluemine&#39; is a personal market research assistant that helps users rapidly find client, competitive and market insights from bluemine, IBM&#39;s gateway to proprietary IT market intelligence data&#46;",
+
+      "project_challenge": "IBM bluemine has a vast repository and variety of information sources (databases, reports, tools, etc&#46;) There was a need of a quality search mechanism to help users find right answers and solutions to the business questions&#46; And that had to be accomplished easily and quickly",
+
+      "project_solution": "Using natural language and cognitive search, askbluemine acts as a &#39;virtual colleague&#39; and scans bluemine&#39;s more than 150 sources and databases to bring you the best, most credible and fact&#8211;based answers in a matter of seconds&#46;",
+
+      "project_results": "The project is currently under way with collaborative efforts of MD&I and IBM Research teams&#46;",
+
+      "project_owner_1": " Makrand Patwardhan",
+
+      "project_ownerphoto_1": "makrand.png",
+
+      "project_bio_1": "Designer&#46; Nerd&#46; TV & Movie Expert&#46; Possibly Funny!",
+
+      "project_contact_1": " also needs to be added&#46; http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=07604K744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10009": {
+
+      "project_discipline": "Portfolio & Content Marketing",
+
+      "project_name": "Optimize Healthcare Operations to Lower Costs&#8211; Healthcare Industry Campaign (S&D)",
+
+      "project_overview": "This campaign targets new buyers (CIO, CMIO, CNO, CNIO) who want to enhance business performance, quality and reduce healthcare costs through actionable insights and have more efficient management of regulatory mandates, risk and governance&#46; IBM is the only partner that can help achieve seamless integration of highly diverse technologies, create more capacity through efficiencies and contain healthcare costs&#46; The goals of this campaign are to:\n<li>highlight and enable our CAMSS capabilities through healthcare industry lenses to drive growth in our categories and solutions</li>\n<li>capture new delivery of cloud computing enabling services to optimize the IBM value proposition for healthcare transformation</li>\n<li>enable IMT sellers to engage with the new buyers of this industry, embrace our value propositions and leverage how IBM is enabling transformation in this industry</li>",
+
+      "project_challenge": "Healthcare organizations are focused on modernizing their business models and infrastructure to increase efficiency and agility; to become exceedingly competent in information readiness and analytics, and are developing new strategies for personalized engagement of the individuals they serve&#46; This campaign focuses on how IBM&#39; solutions and capabilities help healthcare organizations optimize operations, processes and infrastructure to lower costs, become more agile, efficient and secure&#46; The challenge was to reach new customers, develop a campaign focusing on digital assets and deliver value through industry solutions that drive real business outcomes for clients&#46;",
+
+      "project_solution": "Conceptualized, designed and implemented the healthcare campaign adopting the &#39;New Work of Marketing&#39; framework&#46; Identified the target cohort, developed the value proposition and built a front end digital campaign with heavy focus on digital assets such as smart papers and demos&#46; The campaign also featured targeted social activities (Paid LinkedIn and Paid Twitter) yielding strong results&#46; Converted the existing assets into new smart papers and developed a campaign landing page&#46; Launched the campaign in market in Q2 2015 and continuously measuring the results&#46;",
+
+      "project_results": "YTD Campaign Results:\n<li># of Responses: 1921</li>\n<li># of VL & VLR: 52 / $17&#46;6M</li>\n<li># of Wins & WR: 29 / $6&#46;2M </li> ",
+
+      "project_owner_1": "Sumeet Kad",
+
+      "project_ownerphoto_1": "sumeet.png",
+
+      "project_bio_1": "Digital Evangelist, Gadget Freak, Sports Lover, Travel Enthusiast&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=03083L744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10010": {
+
+      "project_discipline": "Portfolio & Content Marketing",
+
+      "project_name": "Box Digital Campaign ",
+
+      "project_overview": "This campaign targets new buyers (Senior Application Development Execs, CIO, CTO, VP of IT) who need to rapidly deliver innovation and non&#8211;stop service and oversee implementation of major new technologies  &#8211; such as cloud and mobile investments &#8211; required by line of business&#46; Together IBM and Box are uniquely positioned to provide a centralized, simple and easy to use cloud content solution that works across all devices today, and will scale and integrate with other IT solutions as the organization&#39;s content management needs grow and change&#46;",
+
+      "project_challenge": "IBM formed a strategic partnership with Box in 2015 to combine the best&#8211;in&#8211;class technologies and resources of both companies to transform work in the cloud&#46; As companies increasingly seek simple, secure collaboration solutions that tap into local data and have global reach, this strategic alliance brings together Box&#39;s industry&#8211;leading cloud content collaboration platform with IBM Analytics and Social solutions, IBM Security technologies and the global footprint of the IBM Cloud&#46; The challenge was to reach net new customers &#8211; IT Executives globally  and sell Box and upsell other IBM ECM integrations&#46;",
+
+      "project_solution": "Conceptualized, designed and implemented the Box for IT campaign adopting the New Work of Marketing framework&#46; Identified the target cohort and built a buyer&#8211;centric campaign&#46; Developed the value proposition and narrative and built a comprehensive content journey for the target cohort&#46; Developed anchor and derivative assets for each stage of the buyer&#39;s journey&#46; Launched the campaign in market in Q2 2016 and continuously measuring the results&#46;",
+
+      "project_results": "YTD Campaign Results as of Q3 Week 7: \n<li># of Responses: 8953</li>\n<li># of VL & VLR: 163 / $23M</li>\n<li># of Wins & WR: 16/ 2&#46;7M</li>",
+
+      "project_owner_1": "Deepthi Nagarajan",
+
+      "project_ownerphoto_1": "deepthi.png",
+
+      "project_bio_1": "Technology Marketer&#46; Intellectually Curious&#46;Globe&#8211;Trotter&#46;Becoming a better Baker&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=01413L744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10011": {
+
+      "project_discipline": "Portfolio & Content Marketing",
+
+      "project_name": "LinuxONE campaign in AP",
+
+      "project_overview": "This campaign focused on leveraging the LinuxONE drumbeat to drive an image transformation about the platform being OPEN and not expensive through LinuxONE branding&#46; This campaign targets new buyers (CIO/CTO of net new accounts without z but with a Linux installation) who focus on innovation and not operational value, who need to demonstrate ROI and are focused on service excellence thus shortening time to market and move to Digital business&#46; They are faced with infrastructure complexity limiting flexibility for sustained growth in secure environment and strong pressure and explosive demand in digital first and digital now business&#46; ",
+
+      "project_challenge": "Adopting a WW campaign for different IMTs in AP, each with their own set of unique characteristic&#46; The team mapped 8 Client Interviews, 30 survey respondents, 200 LinkedIn profiles of the relevant candidates from Head of IT Infrastructure also qualifying for CIO/CTO role (one head of IT) for the AP region to build a better picture of the buyer cohort&#46; For IMTs, the team looked at feedback from sellers and technical professionals on what was stopping the clients from buying&#8211; &#8220;Complexity is real killer more than cost&#8221;&#8211; was the statement received&#46; The team also vetted the WW value proposition, funnel, conversation maps with the sales leaders&#46; ",
+
+      "project_solution": "The campaign was conceptualized, designed and implemented adopting all aspects of the &#39;New Work of Marketing&#39; framework&#46; The campaign focused on building a an engaging digital and web experience as well as charting out the response lead management to drive better conversion rates&#46; Key aspects of the solution included the use of detailed client and buyer profiling, creation of buyer centric narratives and corresponding content aligned to the narrative&#46;",
+
+      "project_results": "Campaign Results:\n<li># of Responses: 16562</li>\n<li># of VL & VLR: 16 / $4&#46;8M</li>\n<li># of Wins & WR: 2 / $600K</li>",
+
+      "project_owner_1": "Pratibha Ryali",
+
+      "project_ownerphoto_1": "prati.png",
+
+      "project_bio_1": "Story&#8211;Teller,Technology Enthusiast, Social Researcher, Marketer, IBMer&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=00805P744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10012": {
+
+      "project_discipline": "Portfolio & Content Marketing",
+
+      "project_name": "Counter Fraud Digital Campaign ",
+
+      "project_overview": "This campaign focused on Tackling fraud and financial crimes, that represent one of the biggest challenges for CFOs around the world today&#46; The combined GBS and GPS, Finance, Risk and Fraud market opportunity is $39&#46;5B in 2015, growing at 4&#46;0% to $44&#46;5B in 2018, and close to 45% falls under counter fraud domain&#46; The campaign focused on Cross&#8211;Sell/Upselling to CFOs looking to increase their influence and impact on profitability by addressing the challenges of financial fraud&#46; ",
+
+      "project_challenge": "Adopting a WW campaign for different IMTs in AP, each with their own set of unique characteristic&#46; The team mapped 8 Client Interviews, 30 survey respondents, 200 LinkedIn profiles of the relevant candidates from Head of IT Infrastructure also qualifying for CIO/CTO role (one head of IT) for the AP region to build a better picture of the buyer cohort&#46; For IMTs, the team looked at feedback from sellers and technical professionals on what was stopping the clients from buying&#8211; &#8220;Complexity is real killer more than cost&#8221;&#8211; was the statement received&#46; The team also vetted the WW value proposition, funnel, conversation maps with the sales leaders&#46; ",
+
+      "project_solution": "Designed and implemented the campaign adopting the &#8216;New Work of Marketing&#39; framework&#46; Improved drive&#8211; to activities with LinkedIn InMail, infographics, social media promotion, SEO & content syndication as well as focusing on SME&#39; social eminence&#46; The campaign also included an interactive CFO Webcast, a live&#8211;chat enabled webcast and webpages, a visioning Workshop and well defined Call to Action in each asset&#46; The campaign also used activation programs for SMEs to progress qualified leads, used enablement of LDRs by SME, sector leader routing for leads, interlock with offering managers to strengthen the offerings and ensured validated leads are passed to opportunity owners&#46;",
+
+      "project_results": "Campaign Results:\n<li># of Responses: 20833</li>\n<li># of VL & VLR: 25 / $2&#46;5M</li>\n<li># of Wins & WR: 5 / $500K</li>",
+
+      "project_owner_1": "Rajnish Kishore",
+
+      "project_ownerphoto_1": "rajnish.png",
+
+      "project_bio_1": "Foxtrot Marketer in High Definition&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=00339K744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10013": {
+
+      "project_discipline": "Portfolio & Content Marketing",
+
+      "project_name": "Watson Analytics ",
+
+      "project_overview": "Watson Analytics is IBM&#39; revolutionary smart data discovery software as a service&#46; It delivers a unified analytics experience on the cloud&#46; The primary target of the campaign for Watson Analytics was the Marketing Analyst in North America with an objective to generate 14K registrations for Watson Freemium (Q3 & Q4 2015)&#46; This campaign was targeted to new buyers (Marketing Analyst, Hacker, Scripter, and Application user) who uses spreadsheets but faces challenges with preparing, analyzing and deriving meaningful insights from complex data to influence decision making&#46;",
+
+      "project_challenge": "Key challenges faced included the evaluation of campaign effectiveness, offer performance and tactic performance&#46; Additionally, the always&#8211;on campaign had to be continuously monitored via metrics, and thereby continuously optimized&#46; ",
+
+      "project_solution": "Conceptualized, designed and implemented the campaign adopting the &#8216;New Work of Marketing&#39;\n framework&#46; Identified the target cohort, developed the value proposition and built a front end digital campaign&#46; The campaign drove awareness of Freemium by niche targeting on highly relevant sites&#46; Additionally, the campaign re&#8211;targeted users who have previously visited the desired IBM&#46;com landing page&#46;",
+
+      "project_results": "",
+
+      "project_owner_1": "Murali Prakash",
+
+      "project_ownerphoto_1": "murali.png",
+
+      "project_bio_1": "Passionate Marketer, Analytics Enthusiast, Product Marketing Expert and Strategic thinker&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=07282B744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10014": {
+
+      "project_discipline": "Brand sytems  & Communications",
+
+      "project_name": "Applying NWoM principles to IBM Security Business Partner Communications",
+
+      "project_overview": "Designed a campaign approach to Business Partner communications to enable focus on driving intentional business outcomes through various communications tactics and shift from too many communications with low impact, to the right communication for high impact",
+
+      "project_challenge": "<li>Integration with analytics tools to measure campaign performance and integrating PartnerWorld metrics with Unica/CoremetricsUse of Cohort segmentation to shape content relevance</li>\n<li>Application of the Buyer Journey approach in the context of Business Partners&#46;</li>\n<li>Application of the integrated Campaign approach to a journey experience&#46;</li>\n<li>Application of the Content Blueprint methodology&#46;</li>",
+
+      "project_solution": "Encourage Security Business Partners to utilize/deploy the Security campaigns hosted in IBM Digital Content Marketing (DCM) platform and design an analytics tracking framework for tracking all PartnerWorld communication, all based on the New Work of Marketing principles&#46;",
+
+      "project_results": "IBM Security communications campaign &#8211; Open Badges:\n<li> Yielded significant uptake (29% increase month to month) in the Security Essentials modules completed and in progress by Business Partners in June&#46;</li>\nIBM Security communications campaign &#8211; Enabling BPs for Digital Content Marketing: \n<li>Campaign usage on IBM Digital Content Marketing (DCM) platform up 50% in June 2016 (monthly usage metrics)&#46;</li>\nIBM Security communications campaign &#8211; Driving awareness about Cognitive Security\n<li>568 click throughs to Cognitive Security assets/offers in July&#46;</li>",
+
+      "project_owner_1": "Darshini G Swamy",
+
+      "project_ownerphoto_1": "darshini.png",
+
+      "project_bio_1": "Technology and dog lover, movie buff, perpetual learner, interested in how emergent technologies are changing our lives!",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=094266744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10015": {
+
+      "project_discipline": "Brand sytems  & Communications",
+
+      "project_name": "Asia Pacific Social Listening Daily Report",
+
+      "project_overview": "To provide the Brand and Communications leadership teams in Asia Pacific with a daily summarized view of social and traditional media conversations and share of voice in Asia Pacific for IBM vis&#8211; &#192;&#8211;vis its competition&#46;",
+
+      "project_challenge": "To use the various available social tools for gathering all relevant data and coming up with a methodology to analyze the data and come up with insights that will be developed into a summary report that is crisp and insightful enough for executive review",
+
+      "project_solution": "Using Sysomos Map, Brand Edge Social Media Real Time Dashboard and the Asia Pacific Coverage Highlights, key social and traditional media conversations and share of voice for IBM and its competition in Asia Pacific are tracked and then featured in a standard report&#46;",
+
+      "project_results": "The report helped and continues to help executives in better understanding of the communication efforts by all the Brand and Communications teams in Asia Pacific&#46;",
+
+      "project_owner_1": "Manbha Khonglah",
+
+      "project_ownerphoto_1": "manbha.png",
+
+      "project_bio_1": "Social Engagement Specialist for IBM Asia Pacific&#46; Part&#8211;time video editor and producer&#46; Outdoor enthusiast&#46; House music aesthete&#46; Forever Chelsea Football Club faithful&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=04725K744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10016": {
+
+      "project_discipline": "Marketing Analytics",
+
+      "project_name": "Campaign Performance Dashboard ",
+
+      "project_overview": "Provide end to end campaign insights and equip the stakeholders to make data based decisions, along with setting up reporting and analytics framework for Unica 9&#46;1 campaigns&#46;",
+
+      "project_challenge": "For end to end campaign overview, the major challenge was to integrate multiple data sources &#8211;&#8211; like MPW, KIS, ODS,Sales connect under one single dashboard&#46;\n ",
+
+      "project_solution": "Integrating multiple data sources and defining key business metrics for the campaign dashboard&#46; Once approved by the key stakeholders the dashboard is to provide weekly structured campaign reports for analysis and insights&#46;",
+
+      "project_results": "From building end to end funnels from multiple data sources, an automated campaign dashboard was developed to save time on reporting and focus on optimizing the campaigns at various levels like web optimization, lead flow, etc&#46; ",
+
+      "project_owner_1": " Sadique Khan",
+
+      "project_ownerphoto_1": "sadique.png",
+
+      "project_bio_1": "Friendly internet expert&#46;  Organizer&#46; Incurable analyst&#46; Problem solver&#46; Reader&#46; Thinker&#46; Food enthusiast&#46; Travelaholic&#46; Wannabe communicator&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=03500L744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10017": {
+
+      "project_discipline": "Marketing Analytics",
+
+      "project_name": "AP Digital Performance 2015",
+
+      "project_overview": "In 2015 and 2016, AP GTS noted an increase in digital activities&#46; Digital campaigns were being designed and rolled&#8211;out in all four IMTs, and across service lines&#46; However, these campaigns had never been assessed for their effectiveness&#46; The question remained &#8211; are these digital activities really effective? If not, what is not working? How can these be optimized? Can there be any best practice sharing between IMTs?",
+
+      "project_challenge": "A Digital Performance Analysis was a white space in AP, and within Marketing Analytics team&#46; There was no existing project on digital analysis which could be used as a guidance&#46; Although we were familiar with the jargons used in Digital Analysis, yet their usage was not very clear&#46; It became a challenge to first grasp the nuances of digital terminologies, understand its convention, and then apply the knowledge to AP digital metrics&#46;",
+
+      "project_solution": "The solution was to examine 2015 AP GTS digital performance, basis which 2016 digital campaigns could be optimized to generate better results&#46; We utilized FY 2015 GTS WASO reports for the analysis&#46; The various metrics were analyzed, sliced and diced, with focus on Paid, Owned and Earned digital tactics&#46; In addition, we also assessed IMTs and Service Lines web pages for optimization or auditing&#46;",
+
+      "project_results": "The benefit of this analysis was three&#8211;fold:&#8211;     \n<li>We were able to provide root&#8211;cause for ineffectiveness of one of the ASEAN digital campaigns, what went wrong and what could have been done</li>\n<li>We also gave recommendations on which type of digital tactic is working well for which IMT, for best&#8211;practice sharing purpose</li>\n<li>We also came up with a suggestion around which digital tactic should be used for what purpose  &#8211; lead generation, thought leadership or lead conversion</li>",
+
+      "project_owner_1": "Nupur Pachauri",
+
+      "project_ownerphoto_1": "nupur.png",
+
+      "project_bio_1": " Analytics enthusiast&#46; Love to Learn&#46; New Challenges nut&#46; Swimming addict&#46; Yoga novice&#46; One&#8211;time Reader&#46; Mother to an adorable two&#8211;year old  &#8211; keeps me busy to be off all of the above&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=04916G744",
+
+      "project_owner_2": "",
+
+      "project_ownerphoto_2": "",
+
+      "project_bio_2": "",
+
+      "project_contact_2": "",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   },
+
+   "10018": {
+
+      "project_discipline": "Marketing Analytics",
+
+      "project_name": "Marketing Profession Job Role Based Analysis &#8211; KPI",
+
+      "project_overview": "The market shows a shift in decision making from traditional IT professionals to Line of Business professionals (LOB)&#46; Market opportunity for 2016 indicates that about 57% of market is driven by LOB buyers with an Annual Growth Rate of 5&#46;5% vs&#46; 0&#46;8% for IT buyers&#46; Hence, as a company we need a comprehensive &#8221;Role based&#8220; Go&#8211;To&#8211;Market strategy that can resonate with our customers by their specific needs and skills they have based on their role&#46;\n\nIn today&#39; world of data&#8211;driven marketing, it is very essential for executives to keep track of their efforts towards Role based Marketing&#46; Hence we created a Key Performance Indicator scorecard for Marketing Profession which would track the results of key activities focused on Marketing Profession as Job Role&#46;",
+
+      "project_challenge": "<li>No pre&#8211;defined metrics or key performance indicators to track or measure success for Role based Marketing</li>\n<li> Data is spread across various tools/platforms and no data on standard data sources like SMS and Sunrise on Role based Marketing&#46; </li> \n<li>Need to create an integrated presentation that would not only give an overview of the performance but also drill down views and pointers on action areas&#46; </li>",
+
+      "project_solution": "Created a comprehensive deck that provides different views on various metrics to measure the effectiveness of marketing activities targeted towards Marketing Profession buyers&#46; This deck can be replicated for other Roles/Professions as well&#46; \n\nIt tracks performance in various ways  &#8211; Digital Metrics like Share of Voice (IBM vs&#46; competitors) among CMOs&#46; That involves assessing mentions for IBM in comparison to competitors, Performance of tactics/activities as well as events effectiveness, marketing contribution trend in revenue generated from opportunities from Marketing Profession&#46; Efforts are also underway to bring in the Job Role/Profession based data into standard data source tools like Sunrise&#46; ",
+
+      "project_results": "<li>The Marketing Profession Scorecard is serving as a reference handbook for various executives while driving calls with their marketing teams</li>\n<li>The results from this deck are also being used in planning for 2017 budgets for Role based marketing for Marketing profession </li>\n Additionally, the following trends have been observed suggesting that the focus on profession marketing is having a positive impact on our business:\n<li>Results generated through Marketing Profession focused marketing activities consistently growing</li>\n<li>Share of Voice for IBM increasing</li>\n<li>Improved Marketing Contribution</li>\n<li>Rising number of audience in CMO targeted events</li>",
+
+      "project_owner_1": "Mayank Aggarwal",
+
+      "project_ownerphoto_1": "mayank.png",
+
+      "project_bio_1": "6 years in IBM, Marketing Analytics Professional, IBMer, Cricket enthusiast, Problem Solver&#46;",
+
+      "project_contact_1": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=07489G744",
+
+      "project_owner_2": "Pradhan Prakash",
+
+      "project_ownerphoto_2": "pradhan.png",
+
+      "project_bio_2": "6 years in GMC , Data Analysis and Insights ,Data Visualization ,Predictive Analytics, Toastmaster, Fitness & Sports Enthusiast , Avid Traveler",
+
+      "project_contact_2": "http://w3&#46;ibm&#46;com/newbp/profile&#46;html?uid=08053C744",
+
+      "Comments": "",
+
+      "FIELD17": "",
+
+      "FIELD18": ""
+
+   }
+
+};
