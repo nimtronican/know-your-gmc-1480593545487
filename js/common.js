@@ -54,9 +54,9 @@
 			url: url,
 			data:dataString,
 			success: function (data) {
-      			alert(data);
+      			//alert(data);
 				returnedData = JSON.parse(data);
-				alert(returnedData);
+				//alert(returnedData);
 				if(returnedData.ret === "SUCCESS"){
 					//alert("Success");
 					$("#gmcform_container").html('<h2 style="text-align:center">Thanks for showing interest to visit GMC India. <br>You have signed up for a visit. You will hear back from us!</h2>');
