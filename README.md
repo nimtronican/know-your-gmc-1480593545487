@@ -1,14 +1,9 @@
-# PHP Starter Overview
+# Know your GMC Website Project
 
-The PHP Starter demonstrates a simple, reusable PHP web application.
+This Project is under the Global Marketing Center where there is a local site created for the Global Marketing Center to attract leads.
 
-## Run the app locally
+## Functionality
 
-1. Download and extract [PHP][]
-2. Add the extracted directory to your PATH environment variable
-3. Download and extract the starter code from the Bluemix UI
-4. cd into the app directory
-5. Run `php -S localhost:8000` to start the app using the built-in development web server
-6. Access the running app in a browser at http://localhost:8000
-
-[PHP]: http://php.net/downloads.php
+1. A Website of 6 pages covering all the Business Units in Global Marketing Center
+2. Projects listed from JSON Object 
+3. Visit GMC Module connecting to an external Email System to send Form transactional Email.
