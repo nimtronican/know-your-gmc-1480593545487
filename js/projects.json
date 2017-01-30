@@ -65,7 +65,7 @@ data = {
    },
    "10005": {
       "project_discipline": "MD&I",
-      "project_name": "Industry Insights PoV",
+      "project_name": "Cognitive Market POV Labor-based modeling analysis",
       "project_overview": "Cognitive technologies are expected to have a significant impact on labor activities. This thinking led the MD&I team to develop a model that looked at the level of impact by labor occupation. The model focuses on primary topics including market opportunity and trends, competitor highlights, new buyer roles and geo-level intelligence. Enhanced coverage for 2016 includes an industry-specific view of five significant transformative IT trends: Cognitive, Digitally Disruptive Services, Internet of Things, Industry Cloud Platforms, and Security.",
       "project_challenge": "Obtaining labor data by occupation for every industry and geography and application of suitable forecasting methods.",
       "project_solution": "Used Bass Diffusion model, Oxford study of Probability of Job Computerization and US Labor Department data to determine the impact on labor spend over a period of time. Labor spend impacts were aggregated by industry and process to provide summary-level views. Adoption (and resultant market sizing by year) was modeled based on observed patterns and diffusion models of prior innovations.",
@@ -97,7 +97,7 @@ data = {
    },
    "10007": {
       "project_discipline": "MD&I",
-      "project_name": "Cognitive Market POV Labor-based modeling analysis",
+      "project_name": "Industry Insights PoV",
       "project_overview": "MD&I Industry Insights Series is a comprehensive guide to help understand industries at a granular level. It focuses on key topics including market opportunity and trends, competitor highlights, new buyer roles and geo-level intelligence. Enhanced coverage for 2016 includes, an industry-specific view of five significant transformative IT trends: Cognitive, Digitally Disruptive Services, Internet of Things, Industry Cloud Platforms, and Security. Industry Insights integrates internal MD&I expertise and data with external insights to provide an in-depth, concise, industry specific intelligence asset used internally within IBM to help drive sector/industry revenue. ",
       "project_challenge": "With IBM's GTM strategy geared towards Industry, the challenge is to identify opportunity areas and address pain points within their industry, enhance customer relationships and build the right solutions. It is imperative to understand key insights about industry intersections such as Industry performance by growth categories (cognitive, IOT and CAMSS).",
       "project_solution": "MD&I developed a comprehensive one-stop industry POV guide for the stakeholders to consume all industry related insights. The series covers insights across 5 industry sectors, 18 industries and key transformational trends that help:\n<li>Discover opportunity growth forecast for your industry and how it compares to other industries.</li>\n<li>Find key IT trends, such as cognitive and cloud, that are affecting growth in a particular industry.</li>\n<li>Understand industry's competitor ecosystem with a deep dive into key players.</li>",
