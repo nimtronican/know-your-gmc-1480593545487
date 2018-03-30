@@ -6,8 +6,11 @@ if(isset($_POST['req']) && $_POST['req']=="MAILSEND"){
 	$mail = new PHPMailer;
 	
 	//$mail->SMTPDebug = 3;                               // Enable verbose debug output
-	
-	//$mail->isSMTP();  
+	if(mail("nimalakanth@gmail.com", "Test Subject", "Test Message"))
+	echo "wow";
+	else
+	echo "Pitty";
+	$mail->isSMTP();  
 	$mail->IsMAIL();                                    // Set mailer to use SMTP
 	$mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
 	$mail->SMTPAuth = true;                               // Enable SMTP authentication
