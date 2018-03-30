@@ -38,7 +38,7 @@ if(isset($_POST['req']) && $_POST['req']=="MAILSEND"){
 	$mail->Body    .='For opting out of this email communication or for any other questions related to this automatic email setup, please reach out to : Nimalakanth Krishnasamy or  Mahanth Chavutagunta <br><br>
 	Blue pages link - <a href="http://w3.ibm.com/newbp/" target="_blank">http://w3.ibm.com/newbp/</a>';
 	$mail->AltBody = '';
-	
+	print_r($mail);
 	if(!$mail->send()) {
 		$data = array('ret'=>'Message could not be sent. Mailer Error: ' . $mail->ErrorInfo);
 	} else {
